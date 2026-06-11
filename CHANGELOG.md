@@ -1,0 +1,14 @@
+# Changelog
+
+Segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e [SemVer](https://semver.org/).
+
+## [Unreleased]
+
+## [0.1.0] — 2026-06-10
+
+### Adicionado
+- Lançamento público do repositório
+- 80 ferramentas: `pagarme_list_accounts`, `pagarme_orders_list`, `pagarme_orders_get`, `pagarme_orders_get_many`, `pagarme_orders_write_create`, `pagarme_orders_write_update`, `pagarme_orders_write_close`, `pagarme_charges_list`, `pagarme_charges_summary`, `pagarme_charges_get`, `pagarme_charges_get_many`, `pagarme_charges_write_capture`, `pagarme_charges_write_retry`, `pagarme_charges_write_confirm`, `pagarme_charges_write_update_due_date`, `pagarme_charges_write_update_payment_method`, `pagarme_charges_write_update_card`, `pagarme_charges_cancel`, `pagarme_customers_list`, `pagarme_customers_get`, `pagarme_customers_list_addresses`, `pagarme_customers_get_address`, `pagarme_customers_write_create`, `pagarme_customers_write_update`, `pagarme_customers_write_create_address`, `pagarme_customers_write_update_address`, `pagarme_customers_write_delete_address`, `pagarme_cards_list`, `pagarme_cards_get`, `pagarme_cards_write_create`, `pagarme_cards_write_renew`, `pagarme_cards_delete`, `pagarme_plans_list`, `pagarme_plans_get`, `pagarme_plans_write_create`, `pagarme_plans_write_update`, `pagarme_plans_delete`, `pagarme_subscriptions_list`, `pagarme_subscriptions_get`, `pagarme_subscriptions_items`, `pagarme_subscriptions_cycles`, `pagarme_subscriptions_usages`, `pagarme_subscriptions_write_create`, `pagarme_subscriptions_write_update_card`, `pagarme_subscriptions_write_update_payment_method`, `pagarme_subscriptions_write_update_billing_date`, `pagarme_subscriptions_write_add_item`, `pagarme_subscriptions_write_add_usage`, `pagarme_subscriptions_cancel`, `pagarme_recipients_list`, `pagarme_recipients_get`, `pagarme_recipients_default`, `pagarme_recipients_balance`, `pagarme_recipients_transfers`, `pagarme_recipients_withdrawals`, `pagarme_recipients_anticipations`, `pagarme_recipients_anticipation_limits`, `pagarme_recipients_write_create`, `pagarme_recipients_write_update`, `pagarme_recipients_write_update_bank_account`, `pagarme_recipients_write_create_withdrawal`, `pagarme_recipients_write_create_anticipation`, `pagarme_transfers_list`, `pagarme_transfers_get`, `pagarme_transfers_write`, `pagarme_payables_list`, `pagarme_payables_get`, `pagarme_invoices_list`, `pagarme_invoices_get`, `pagarme_invoices_write`, `pagarme_invoices_cancel`, `pagarme_legacy_list_transactions`, `pagarme_legacy_get_transaction`, `pagarme_legacy_list_subscriptions`, `pagarme_legacy_list_plans`, `pagarme_legacy_list_payables`, `pagarme_legacy_list_recipients`, `pagarme_legacy_list_customers`, `pagarme_legacy_list_transfers`, `pagarme_legacy_balance`
+- Manifestos pra Claude Desktop, Cursor e VS Code (config única, auth em runtime)
+- Skill geral pra agentes (`pagarme-mcp`)
+- Documentação PT-BR + README EN
