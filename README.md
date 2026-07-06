@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-dir-pagarme-mcp-badge.png)](https://mseep.ai/app/mcp-dir-pagarme-mcp)
+
 # Pagar.me
 
 ### Pagar.me para Claude, Cursor e agentes de IA
