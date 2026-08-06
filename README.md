@@ -1,5 +1,7 @@
 # Pagar.me
 
+[![MCP Queen operational grade](https://mcpqueen.com/badge/io.github.mcp-dir/pagarme-mcp.svg)](https://mcpqueen.com/s/io.github.mcp-dir/pagarme-mcp)
+
 ### Pagar.me para Claude, Cursor e agentes de IA
 
 Gateway de pagamentos da Stone (api.pagar.me), pedidos, cobranças (cartão, Pix, boleto), clientes e cartões, planos e assinaturas, recebedores (split/marketplace), transferências, recebíveis e faturas, via a API oficial V5. Funciona em todas as versões: chave sk_… usa a API V5 (leitura + escrita); contas legadas (chave ak_…) ganham leitura da API V1–V4 (transações, assinaturas, recebíveis, saldo). Autenticação por chave secreta gerada no painel → Configurações → Chaves.
